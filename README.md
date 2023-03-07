@@ -9,6 +9,8 @@
 - Création d'un tableau dans mon script js pour l'utiliser et trier les infos dans la liste client
 - Identification dans la partie liste clients et distinctions des différentes propriétés à entrer dans le tableau
 
+--------------------------------------------------------
+
 ### Comment compiler ?
 
 "node nomfichier.js"
