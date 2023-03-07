@@ -3,7 +3,8 @@
 
 ### Comment compiler ?
 
-node nomfichier.js
+"node nomfichier.js"
+
 On fera par exemple : node index.js ou node .\index.js
 
 ### Consignes :
