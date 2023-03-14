@@ -1,0 +1,137 @@
+/* CSS */
+.button-67 {
+    align-items: center;
+    background: rgba(251, 155, 155, 0.404);
+    border: 0;
+    border-radius: 8px;
+    box-shadow: -10px -10px 30px 0 #fff,10px 10px 30px 0 #1d0dca17;
+    box-sizing: border-box;
+    color: #2a1f62;
+    cursor: pointer;
+    display: inline;
+    font-family: "Cascadia Code",Consolas,Monaco,"Andale Mono","Ubuntu Mono",monospace;
+    font-size: 1rem;
+    justify-content: center;
+    line-height: 1.5rem;
+    padding: 15px;
+    position: relative;
+    text-align: left;
+    transition: .2s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: pre;
+    width: max-content;
+    word-break: normal;
+    word-spacing: normal;
+  }
+  
+  .button-67:hover {
+    background: #f8f8ff;
+    box-shadow: -15px -15px 30px 0 #fff, 15px 15px 30px 0 #1d0dca17;
+  }
+  
+  @media (min-width: 768px) {
+    .button-67 {
+      padding: 24px;
+    }
+  }
+
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+      'Lucida Sans', Arial, sans-serif;
+    color: rgb(29, 29, 29);
+    background-image: linear-gradient( 135deg, #FFD3A5 10%, #FD6585 100%);
+  }
+  
+  form {
+    max-width: 400px;
+    margin: 35px auto;
+    border-radius: 10px;
+    padding: 10px 15px;
+    background: white;
+  }
+  
+  h1 {
+    margin: 0 0 30px 0;
+    text-align: center;
+    margin-top: 5px;
+  }
+  
+  .alert {
+    text-align: center;
+    padding: 10px;
+    background: rgb(198, 110, 110);
+    color: rgb(128, 0, 0);
+    margin-bottom: 10px;
+    display: none;
+  }
+  
+  input[type='text'],
+  input[type='email'],
+  input[type='password'],
+  textarea,
+  select {
+    background: rgba(251, 155, 155, 0.9);
+    border: 1px;
+    margin-bottom: 25px;
+    box-shadow: 2px;
+    color: black;
+    background-color: rgba(251, 155, 155, 0.404);
+    width: 100%;
+    padding: 15px;
+    margin: 0;
+    height: auto;
+    font-size: 15px;
+  }
+  
+  select {
+    padding: 6px;
+    height: 32px;
+    border-radius: 2px;
+  }
+  
+  fieldset {
+    margin-bottom: 30px;
+    border: none;
+  }
+  
+  legend {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  label.light {
+    font-weight: 300;
+    display: inline;
+  }
+  
+  .section {
+    background-color: whitesmoke;
+    color: black;
+    height: 29px;
+    display: inline-block;
+    width: 29px;
+    border-radius: 100%;
+    text-align: center;
+    line-height: 30px;
+    margin-right: 4px;
+    font-size: 0.7em;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  
+  @media screen and (min-width: 480px) {
+    form {
+      max-width: 480px;
+    }
+  }
+  
