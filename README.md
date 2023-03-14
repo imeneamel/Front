@@ -3,7 +3,9 @@
 
 ### Avancement :
 
-Voir la branche "3pages"
+Voir la branche "TD-14/03"
+Pour l'avancement du TD précédent, se référer à la branche "3pages"
+Le default correspond à la version originale du projet (TD1)
 
 ### Comment compiler ?
 
