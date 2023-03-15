@@ -3,7 +3,7 @@
 
 ### Avancement :
 
-Voir la branche "Brach-14/03"
+Voir la branche "Branch-14/03"
 
 Pour l'avancement du TD précédent, se référer à la branche "3pages"
 
